@@ -1,5 +1,5 @@
 {
-  "name": "module-version",
+  "name": "node-module-version",
   "version": "1.0.0",
   "description": "At runtime, get the version of a node module",
   "main": "index.js",
